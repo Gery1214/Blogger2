@@ -1,4 +1,5 @@
-﻿namespace BlogAPI.Models
+﻿using System.ComponentModel.DataAnnotations;
+namespace BlogAPI.Models
 {
     public class Blogpost
     {
