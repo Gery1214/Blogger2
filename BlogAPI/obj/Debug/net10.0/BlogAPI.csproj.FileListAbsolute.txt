@@ -34,3 +34,4 @@ C:\Users\simon-kovacsg\Desktop\Backend\WebAPI\RestFullApp\BlogAPI\obj\Debug\net1
 C:\Users\simon-kovacsg\Desktop\Backend\WebAPI\RestFullApp\BlogAPI\obj\Debug\net10.0\ref\BlogAPI.dll
 C:\Users\simon-kovacsg\Desktop\Backend\WebAPI\RestFullApp\BlogAPI\bin\Debug\net10.0\Scalar.AspNetCore.dll
 C:\Users\simon-kovacsg\Desktop\Backend\WebAPI\RestFullApp\BlogAPI\bin\Debug\net10.0\MySqlConnector.dll
+C:\Users\simon-kovacsg\Desktop\Backend\WebAPI\RestFullApp\BlogAPI\obj\Debug\net10.0\BlogAPI.sourcelink.json

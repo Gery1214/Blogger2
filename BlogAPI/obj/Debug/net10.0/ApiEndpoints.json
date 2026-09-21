@@ -87,5 +87,21 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BlogAPI.Controllers.BlogpostController",
+    "Method": "AddNewBloggerPost",
+    "RelativePath": "api/Blogpost/bloggerAdd",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "addNewBloggerPostDto",
+        "Type": "BlogAPI.Models.DTOs.AddNewBloggerPostDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]
